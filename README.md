@@ -1,8 +1,8 @@
 # PE_b7
 
-###Ejecución
+### Ejecución
 
-```console
+```bash
 ~$ cd program
 ~$ make
 ~$ cp time_program.exe ../
